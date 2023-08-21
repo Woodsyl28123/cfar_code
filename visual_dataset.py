@@ -7,6 +7,7 @@ import xml.etree.ElementTree as ET
 import matplotlib.pyplot as plt
 import matplotlib.image as img
 
+# 可视化voc数据集
 def voc_visual(data_dir,        # 指定voc数据集所在目录
                img_dir,ann_dir, # 指定input和annotation文件夹的路径
                output_dir):     # 指定结果图片保存目录
@@ -79,6 +80,5 @@ if __name__ == "__main__":
     output_dir = os.path.join(data_dir, 'Result_imgs')
     voc_visual(data_dir,img_dir,ann_dir,output_dir)
 
-# 显示子图
     # figure_plot(data_dir,output_dir)
 
