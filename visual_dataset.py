@@ -79,5 +79,6 @@ if __name__ == "__main__":
     output_dir = os.path.join(data_dir, 'Result_imgs')
     voc_visual(data_dir,img_dir,ann_dir,output_dir)
 
+# 显示子图
     # figure_plot(data_dir,output_dir)
 
