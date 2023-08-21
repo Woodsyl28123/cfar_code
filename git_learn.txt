@@ -22,3 +22,4 @@
   232  git chekcout develop
   233  git checkout develop
   234  git log
+  235 git diff
