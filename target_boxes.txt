@@ -1,0 +1,14 @@
+position_1: 387,309,401,317
+position_2: 430,307,441,320
+position_3: 414,301,425,308
+position_4: 7,302,26,317
+position_5: 412,300,429,318
+position_6: 74,296,86,310
+position_7: 1,287,17,299
+position_8: 13,280,33,293
+position_9: 53,253,61,268
+position_10: 75,242,83,267
+position_11: 49,240,68,250
+position_12: 308,63,353,79
+position_13: 480,0,502,320
+sum:13 ship
