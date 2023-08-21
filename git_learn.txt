@@ -1,0 +1,24 @@
+  211  git init
+  212  git remote add origin git@github.com:Woodsyl28123/cfar_code.git
+  213  git status
+  214  git add .
+  215  git commit -m "first commit "
+  216  git log
+  217  git branch -M main
+  218  git remote -v
+  219  git push origin main
+  220  git status
+  221  git diff
+  222  git add visual_dataset.py
+  223  git commit -m "modify visual_dataset.py"
+  224  git push origin main
+  225  git log
+  226  git add visual_dataset.py
+  227  git commit -m "seconde modify visual_dataset.py"
+  228  git push origin main
+  229  git log
+  230  git branch develop
+  231  git branch -a
+  232  git chekcout develop
+  233  git checkout develop
+  234  git log
